@@ -1,0 +1,5 @@
+es-AR:
+  flash:
+    password_update_success: Contraseña modificada exitosamente. Por favor vuelva a iniciar sesión
+    updated_profile: Perfil actualizado exitosamente
+    cant_destroy_case: No pudo eliminarse el caso

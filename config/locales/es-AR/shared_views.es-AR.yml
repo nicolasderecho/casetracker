@@ -1,0 +1,47 @@
+es-AR:
+  views:
+    back: "Volver"
+    sign_in: "Iniciar Sesión"
+    sign_up: "Registrarse"
+    send: Enviar
+    sending: Enviando
+    save: Guardar
+    saving: Guardando
+    confirm: Confirmar
+    confirming: Confirmando
+    finalize: Finalizar
+    finalizing: Finalizando
+    forgot_password: "Olvidé mi contraseña"
+    send_password_instructions: Enviar instrucciones
+    did_not_receive_confirmation_instructions: No recibí instrucciones de confirmación
+    reset_password: Reestablecer contraseña
+    minimum_password_length: "%{length} caracteres como mínimo"
+    resend_confirmation_instructions: "Reenviar instrucciones de confirmación"
+    sign_up: Registrarse
+    sign_in: Iniciar sesión
+    view_profile: Ver perfil
+    edit_profile: Editar Perfil
+    change_password: Cambiar contraseña
+    sign_out: Cerrar sesión
+    menu: Menú
+    home: Inicio
+    view_entity: "Ver %{entity}"
+    add_entity: "Agregar %{entity}"
+    edit_entity: "Editar %{entity}"
+    remove_entity: "Eliminar %{entity}"
+    view: "Ver"
+    edit: "Editar"
+    destroy: "Eliminar"
+    total: Total
+    home_message: ¡Bienvenido!
+    empty_results: No se han encontrado casos
+    actions: Acciones
+    are_you_sure: ¿Está seguro? va a eliminar el registro
+    new_comment: "Nuevo comentario"    
+    search:
+      clear: Limpiar
+      contains: "%{entity} contiene"
+      eq: "%{entity} es igual a"
+      filter: Filtrar
+      gteq: "%{entity} mayor o igual a"
+      lteq: "%{entity} menor o igual a"    

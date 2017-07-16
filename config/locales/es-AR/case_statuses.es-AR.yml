@@ -1,0 +1,7 @@
+es-AR:
+  case_statuses:
+    designation: "Designación"
+    removed_citation: Citación removida
+    in_test: En proceso
+    in_judgment: En juicio
+    waiting_payment: Esperando Cobrar

@@ -1,0 +1,2 @@
+class CasePolicy < ApplicationPolicy
+end

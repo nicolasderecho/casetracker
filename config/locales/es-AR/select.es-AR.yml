@@ -1,0 +1,4 @@
+es-AR:
+  select2:
+    default_multiple_placeholder: Elija algunas opciones
+    default_simple_placeholder: Elija una opción      

@@ -1,0 +1,10 @@
+es-AR:
+  mails:
+    confirm_account: "Confirmar Cuenta"
+    change_password: "Modificar contraseña"
+    if_you_didnt: "Si no solicitaste esto, por favor ignora este email"
+    reset_title: "Hola %{entity}"
+    reset_context: "Alguien ha solicitado modificar tu contraseña. Puedes hacerlo clickeando en el siguiente link:"
+    reset_result: "Tu contraseña no se modificará hasta que hagas click en el link de arriba y escribas una nueva."
+    you_can_confirm: "Puede confirmar su cuenta clickeando en el siguiente link:"
+    welcome: "Bienvenido a Negociums %{entity}!"

@@ -1,0 +1,13 @@
+es-AR:
+  activerecord:
+    attributes:
+      comment:
+        created_at: Fecha de creación
+        updated_at: Ultima actualización
+        description: Descripción
+        date: Fecha
+        user: Usuario
+    models:
+      comment:
+        one: Comentario
+        other: Comentarios

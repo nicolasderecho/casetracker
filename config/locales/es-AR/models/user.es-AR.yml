@@ -1,0 +1,18 @@
+es-AR:
+  activerecord:
+    attributes:
+      user:
+        created_at: Fecha de creación
+        updated_at: Ultima actualización
+        first_name: Nombre
+        last_name: Apellido
+        email: Email
+        new_password: Nueva Contraseña
+        password: Contraseña
+        password_confirmation: Confirmar Contraseña
+        new_password_confirmation: Confirmar Nueva Contraseña
+        remember_me: Recordarme
+    models:
+      user:
+        one: Usuario
+        other: Usuarios

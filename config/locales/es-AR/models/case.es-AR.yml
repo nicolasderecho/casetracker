@@ -1,0 +1,16 @@
+es-AR:
+  activerecord:
+    attributes:
+      case:
+        created_at: Fecha de creación
+        updated_at: Ultima actualización
+        title: Carátula
+        judge: Juez
+        status: Estado
+        expedient: Expediente
+        date: Fecha
+        user: Usuario
+    models:
+      case:
+        one: Caso
+        other: Casos
