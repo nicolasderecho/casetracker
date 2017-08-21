@@ -1,11 +1,11 @@
 source 'https://rubygems.org'
 ruby '2.4.1'
 
-gem 'rails', '~> 5.1.1'
+gem 'rails', '~> 5.1.3'
 
 gem 'puma', '~> 3.7'
 
-gem 'active_model_serializers', '~> 0.10.0'
+gem 'active_model_serializers', '~> 0.10.6'
 gem 'bcrypt'
 gem 'pundit'
 gem 'searchlight'
@@ -21,11 +21,7 @@ group :development, :test do
   # Testing
   gem 'factory_girl_rails'
   gem 'rspec-rails'
-  gem 'capybara'
-  gem 'capybara-webkit'
-  gem 'selenium-webdriver', '~> 2.48.1'
   gem 'faker'
-  gem 'database_cleaner', '~> 1.5'
   #Debug and Dev
   gem 'pry'
   gem 'pry-rails'

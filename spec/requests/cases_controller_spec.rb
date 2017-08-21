@@ -63,7 +63,7 @@ RSpec.describe CasesController, type: :request do
       let(:user) { create(:user) }
       let(:auth_token) { Authenticator.new(email: user.email, password: user.password).generate_token }
       let(:date_field) { 3.days.ago }
-      let(:case_params) { {title: "My case", expedient: "1234556", date: date_field} }
+      let(:case_params) { {title: "My case", expedient: "1234556", date: date_field, status: Case::Statuses::IN_TEST} }
 
       it "creates the case" do
         expect { post("/api/cases", params: case_params.to_json, headers: request_headers) }.to change { Case.count }.from(0).to(1)
