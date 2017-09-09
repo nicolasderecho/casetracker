@@ -49,7 +49,7 @@ class CasesController < ApplicationController
   private
 
     def case_params
-      params[:case].permit(:title, :expedient, :date, :avatar_cache, :status)
+      params[:case].permit(:title, :expedient, :date, :avatar_cache, :status, :judge)
     end
 
     def search_params
